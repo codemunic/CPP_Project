@@ -8,7 +8,6 @@ Working: When registering, system will save username and password in text file a
 
 Hint: https://www.youtube.com/watch?v=I_aWPGCaaFA&ab_channel=HazardEdit
 
-Run in ubuntu terminal: g++ main.cpp     ->  ./a.out
 
 ~Raman
  
