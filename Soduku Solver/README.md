@@ -1,2 +1,6 @@
-# CPP_Project
-Projects using c++
+# SODUKU SOLVER
+
+Tested to run in Visual Studio Microsoft C++ compiler. 
+
+Some modifications required for GCC.
+
