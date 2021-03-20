@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\raman\source\repos\StudentReportManagement\StudentReportManagement\Source.cpp(98,10): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\raman\source\repos\StudentReportManagement\StudentReportManagement\Source.cpp(208,12): warning C4129: 'E': unrecognized character escape sequence
+  StudentReportManagement.vcxproj -> C:\Users\raman\source\repos\StudentReportManagement\Debug\StudentReportManagement.exe
